@@ -36,7 +36,7 @@ Nuestra capacidad técnica abarca desde plataformas SaaS y arquitecturas de micr
        ┌──────────────────┬───────────────┼───────────────┬──────────────────┐
        ▼                  ▼               ▼               ▼                  ▼
 ┌─────────────┐    ┌─────────────┐ ┌─────────────┐ ┌─────────────┐    ┌─────────────┐
-│ Enterprise  │    │ Intelligent │ │ High-Impact │ │   Fintech   │    │   Cloud &   │
+│ Enterprise  │    │ Intelligent │ │ High-Impact │ │  Fintech    │    │   Cloud &   │
 │    SaaS     │    │  AI Agents  │ │  Web & UX   │ │  Payments   │    │   DevOps    │
 └─────────────┘    └─────────────┘ └─────────────┘ └─────────────┘    └─────────────┘
 ```
@@ -98,7 +98,7 @@ Nuestra capacidad técnica abarca desde plataformas SaaS y arquitecturas de micr
 
 ```text
 [ Requerimientos ] ──▶ [ Arquitectura & Prototipo ] ──▶ [ Desarrollo Modular ]
-                                                                 │
+                                                                  │
 [ Despliegue Zero-Downtime ] ◀── [ Auditoría & Staging ] ◀───────┘
 ```
 
