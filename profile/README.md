@@ -121,7 +121,7 @@ Nuestra capacidad técnica abarca desde plataformas SaaS y arquitecturas de micr
 
 <br>
 
-**📍 Sede:** Caracas, Venezuela · Operaciones Globales Remotas  
+**📍 Sede:** Bucaramanga, Colombia · Operaciones Globales Remotas · Venezuela  
 **🕒 Horario:** Lunes a Viernes (8:00 AM – 6:00 PM EST)
 
 <sub>© 2026 MVA Vanguard. Todos los derechos reservados. Engineering the digital future.</sub>
